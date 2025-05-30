@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MargeDapo
 - 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning Data analysis tools like SQL, Python and R
+- 🌱 Exploring Excel, SQL, Python and R
 - 💞️ I’m looking to collaborate on projects that will improve my skills
 - 📫 How to reach me margedapo@gmail.com
 - 😄 Pronouns: She
